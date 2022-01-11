@@ -1,0 +1,3 @@
+[submodule "jsonplotter/BreezeStyleSheets"]
+	path = jsonplotter/BreezeStyleSheets
+	url = git@github.com:Alexhuszagh/BreezeStyleSheets.git
